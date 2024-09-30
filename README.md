@@ -1,3 +1,3 @@
-# **Machine Learning (ML) Projects: **
+# **Machine Learning (ML) Projects :**
 
-- **Loan Default Prediction using ML: **
+- **Loan Default Prediction using ML  :**
